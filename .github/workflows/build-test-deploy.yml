@@ -30,7 +30,7 @@ jobs:
     needs:  test
 
     permissions:
-      contents: white
+      contents: write
       pages: write
       id-token: write
 
